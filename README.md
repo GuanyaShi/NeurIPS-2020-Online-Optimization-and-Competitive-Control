@@ -1,1 +1,1 @@
-# -NeurIPS-2020-Online-Optimization-and-Competitive-Control
+# NeurIPS-2020-Online-Optimization-and-Competitive-Control
