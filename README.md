@@ -10,3 +10,5 @@ Code base for the NeurIPS 2020 paper:
 }
 
 arXiv version: https://arxiv.org/abs/2002.05318
+
+full paper pdf: https://github.com/GuanyaShi/NeurIPS-2020-Online-Optimization-and-Competitive-Control/blob/main/full_paper.pdf
