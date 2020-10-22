@@ -3,10 +3,10 @@
 Code base for the NeurIPS 2020 paper:
 
 @article{shi2020competitivecontrol, \
->title={Online Optimization with Memory and Competitive Control}, \
->author={Shi, Guanya and Lin, Yiheng and Chung, Soon-Jo and Yue, Yisong and Wierman, Adam}, \
->journal={Neural Information Processing Systems (NeurIPS)}, \
->year={2020} \
+&nbsp;&nbsp; title={Online Optimization with Memory and Competitive Control}, \
+&nbsp;&nbsp; author={Shi, Guanya and Lin, Yiheng and Chung, Soon-Jo and Yue, Yisong and Wierman, Adam}, \
+&nbsp;&nbsp; journal={Neural Information Processing Systems (NeurIPS)}, \
+&nbsp;&nbsp; year={2020} \
 }
 
 arXiv version: https://arxiv.org/abs/2002.05318
